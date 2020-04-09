@@ -19,6 +19,7 @@ A Escola de Data Science é uma experiência completa de aprendizado, com o mind
 ## Notebooks de apoio:
 Todos os notebooks de apoio usados nas auals estão listados abaixo.
 
+* [**Aula 006: Aula 006: Propagação em Redes Neurais (usando NumPy)**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_006_Propaga%C3%A7%C3%A3o_em_Redes_Neurais.ipynb)
 * [**Aula 005: Introdução ao Deep Learning**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_005_Introdu%C3%A7%C3%A3o_ao_Deep_Learning.ipynb)
 * [**Aula 004: Redes Neurais**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_004_Redes_Neurais.ipynb)
 * [**Aula 003: Séries Temporais - Testes Estatísticos e ARIMA**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_003_S%C3%A9ries_Temporais_(Time_Series)_Parte_3.ipynb)
