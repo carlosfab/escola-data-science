@@ -18,6 +18,7 @@ A Escola de Data Science é uma experiência completa de aprendizado, com o mind
 
 ## Notebooks de apoio:
 Todos os notebooks de apoio usados nas auals estão listados abaixo.
+* [**Aula 081 - Introdução aos Modelos Generativos e Autoencoders](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_081_Introdução_aos_Modelos_Generativos_e_Autoencoders.ipynb)
 * [**Aula 010: Previsão de Séries Temporais com Prophet**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_010_S%C3%A9ries_Temporais_com_Prophet.ipynb)
 * [**Aula 009: Classificação de Roupas usando Deep Learning**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_009_Classifica%C3%A7%C3%A3o_de_Roupas_usando_Deep_Learning.ipynb)
 * [**Aula 008: TensorFlow**](https://github.com/carlosfab/escola-data-science/blob/master/notebooks/Aula_008_TensorFlow.ipynb)
